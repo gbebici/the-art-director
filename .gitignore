@@ -1,0 +1,3 @@
+# Fontes brutas do acervo (livros com direito autoral, arquivos grandes) - ficam so no disco local
+acervo/fontes/
+.DS_Store

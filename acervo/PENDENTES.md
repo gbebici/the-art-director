@@ -19,3 +19,10 @@ Arnheim, Vernallis, Goodwin, Block, Mascelli e Hunter/Biver já estão em `fonte
 - Payne, *Composition of Outdoor Painting* — baixado, é scan de imagem, precisa de OCR
 - Murch, trecho de *In the Blink of an Eye* — baixado, é scan de imagem, precisa de OCR
 - Goodwin, Block, Vernallis, Mascelli, Arnheim, Hunter/Biver — baixados via libgen, extração pendente
+
+
+## Roteiro / edição de imagem / comunicação mobile — status em 15/09/2026
+
+- Comunicação mobile/digital: já coberto, ver `notas-extraidas/comunicacao-mobile-digital.md`.
+- Edição de imagem/retoque: Dan Margulis verificado (fonte secundária, Wikipedia) — ver `notas-extraidas/margulis-retoque-cor.md`. Falta ainda: verificação fresca de Katrin Eismann (*Photoshop Restoration & Retouching*), citada só de conhecimento de treinamento.
+- Roteiro: framework de gancho de vídeo curto verificado (fonte fresca) — ver `notas-extraidas/roteiro-estrutura-e-gancho.md`. Falta ainda: verificação fresca dos 5 nomes canônicos de estrutura de roteiro de longa (Field, McKee, Vogler, Snyder, Truby) — hoje são só conhecimento de treinamento, não confirmados nesta sessão.

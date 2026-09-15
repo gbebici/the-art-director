@@ -28,3 +28,21 @@ Os cinco nomes abaixo são canônicos de verdade (ensinados em curso de roteiro 
 - Christopher Vogler, *The Writer's Journey* — adaptação da jornada do herói de Campbell pra roteiro comercial de estúdio.
 - Blake Snyder, *Save the Cat* — beat sheet com 15 pontos fixos; princípio "me dê a mesma coisa... só que diferente".
 - John Truby, *The Anatomy of Story* — 22 passos organizados em torno de uma premissa moral central.
+
+## Estruturas de roteiro atualizadas pra redes, 2026 (fonte verificada em 15/09/2026)
+
+Isto é o "roteiro atualizado" pedido, com timing real de segundo a segundo, não teoria genérica:
+
+1. **Arco Problema-Solução** — 0-3s: nomear o problema com especificidade; 3-8s: mostrar o custo/consequência; 8-25s: apresentar e demonstrar a solução; 25-30s: um único CTA claro.
+2. **Mini Jornada do Herói** — 2-4s: ponto de partida identificável; 4-10s: obstáculo/fracasso específico; 10-35s: transformação e aprendizado; 35-45s: nova realidade. Melhor pra marca pessoal, conteúdo aspiracional.
+3. **Antes-Depois-Ponte** — Antes (realidade atual, concreta), Depois (estado futuro desejado, vívido), Ponte (o que liga um ao outro). Mostrar o resultado desejável ANTES de explicar como chegar lá.
+4. **Loop Aberto** — tensão não resolvida até os últimos 5s; maximiza conclusão, escala até 60-90s sem perder quem assiste.
+5. **Micro-recompensas empilhadas** — um insight satisfatório a cada 8-10s, cortes secos entre payoffs (jump cuts, legenda animada).
+
+Duas estruturas mais simples: **PASO** (Problema → Agitação → Solução → Resultado, boa pra tutorial) e **Jornada do Herói adaptada** (Chamado → Desafio → Transformação → Resultado, condensada).
+
+Regra confirmada nas duas fontes: atenção nos primeiros 3s, vídeo entre 15-60s.
+
+Como usar: essas 5 estruturas com timing são mais aplicáveis no dia a dia de conteúdo pra redes que os clássicos de roteiro de longa abaixo — servem de checklist direto: qual dessas 5 essa peça tenta ser, e ela cumpre os marcos de tempo?
+
+Fontes: https://shortzly.com/blog/short-form-video-storytelling-structures , https://www.3318-creative.com/post/tiktok-storytelling
